@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <title></title>
+    <fields>
+        <field name="FolderPath" alias="Ubicación: " visible="true"/>
+        <field name="Name" alias="Intensidad:  " visible="true"/>
+       
+    </fields>
+    <showattachments>false</showattachments>
+    <showrelatedrecords>false</showrelatedrecords>
+</configuration>

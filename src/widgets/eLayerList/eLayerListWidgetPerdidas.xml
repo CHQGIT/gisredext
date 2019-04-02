@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<configuration>
+    <labels>
+        <visibilitylabel>Visibilidad de Capas</visibilitylabel>
+        <expandall>Expand All Layers</expandall>
+        <collapseall>Collapse All Layers</collapseall>
+        <zoomtomakevisible>Zoom To Make Visible</zoomtomakevisible>
+        <generatinglegendmsg>Generating TOC Legend</generatinglegendmsg>
+    </labels>
+    <tocsettings>
+        <expanded everything="false">false</expanded>
+        <collapselegends>true</collapselegends>
+        <disablezoomtomenuoption>false</disablezoomtomenuoption>
+    </tocsettings>
+    <excludelayers>
+        <excludelayer mapservice="SSEE">2</excludelayer>
+          <excludelayer mapservice="Vistas"></excludelayer>
+          <excludelayer mapservice="Postes_chocados"></excludelayer>
+          <excludelayer mapservice="Clientes1"></excludelayer>
+          <excludelayer mapservice="Clientes1"></excludelayer>
+          <excludelayer mapservice="Reportes Planificacion"></excludelayer>
+          <excludelayer mapservice="ECSE"></excludelayer>
+          <excludelayer mapservice="Cobertura Antena"></excludelayer>
+          <excludelayer mapservice="Access Point"></excludelayer>
+    	   <excludelayer mapservice="Nivel Criticidad"></excludelayer>
+    	     <excludelayer mapservice="Imágenes SSEE"></excludelayer>
+    	     <excludelayer mapservice="Reparto"></excludelayer>
+    	       <excludelayer mapservice="Equipos Tele"></excludelayer>
+    	        <excludelayer mapservice="Medioambiente"></excludelayer>
+    	         <excludelayer mapservice="Riesgo"></excludelayer>
+    	         <excludelayer mapservice="Electrodependientes"></excludelayer>
+    	          <excludelayer mapservice="Reparto Historia"></excludelayer>
+    	            <excludelayer mapservice="Sectores"></excludelayer>
+    	             <excludelayer mapservice="STX/CBR"></excludelayer>
+    	               <excludelayer mapservice="Voltajes"></excludelayer>
+    	                <excludelayer mapservice="Micromedicion"></excludelayer>
+    	                 <excludelayer mapservice="Denuncios Web"></excludelayer>
+    </excludelayers>
+    <excludegraphiclayers>true</excludegraphiclayers>
+    <excludebasemaplayers>true</excludebasemaplayers>
+    <usenewesridescription>false</usenewesridescription>
+</configuration>
