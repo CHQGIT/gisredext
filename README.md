@@ -1,3 +1,3 @@
-# gisred viewer-flex
+# Gisred web externa
 
 
